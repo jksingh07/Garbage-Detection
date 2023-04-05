@@ -1,0 +1,2 @@
+# Garbage-Detection
+This project was built during the competition of Smart India Hackathon 2020. In This I am using a Android device's Camera to detect Garbage on Roads, streets, kitchen etc. I had used Computer vision and deep learning CNN model to do the same. Plan is to use this application with drones to capture the images of roads in a region and then after detecting garbage it will notify the respective departments with location and recognized garbage Images.
